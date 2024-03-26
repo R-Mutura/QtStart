@@ -1,7 +1,7 @@
 # QtStart
 Automatic QtStarter from Bash
 
-
+ <!-- 
 #! /bin/bash
 
 #### to make this automatic start
@@ -49,6 +49,7 @@ else
                 echo "CD into Home folder $(cd ~/qt_app)"
     	        cd ~ 
 #this else statement can be optimized out.
+ -->
 
 fi
 ## USE TMUX SO THAT YOU CAN HAVE DIFFERENT SESSIONS RUNNING COCURRENTLY WITH BASH. CLOSING BASH  
