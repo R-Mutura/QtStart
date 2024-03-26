@@ -1,7 +1,7 @@
 # QtStart
 Automatic QtStarter from Bash
 
- <!-- 
+<pre>
 #! /bin/bash
 
 #### to make this automatic start
@@ -52,7 +52,7 @@ else
 
 
 fi
- -->
+</pre>
 ## USE TMUX SO THAT YOU CAN HAVE DIFFERENT SESSIONS RUNNING COCURRENTLY WITH BASH. CLOSING BASH  
 ## OR ^c => CLOSES THE APP AS WELL
 
